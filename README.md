@@ -89,11 +89,11 @@ I spend most of my time solving complex problems through code. I enjoy collabora
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=http%3A%2F%2Fgithub.com%2Fszpatrichardi&label=Visitors&labelColor=%23010c2b&countColor=%2304123b&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=http%3A%2F%2Fgithub.com%2Fszpatrichard)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=szpatrichard&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szpatrichard&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szpatrichard&layout=compact&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=szpatrichard&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!-- Repos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szpricky&repo=guestbook-api)](https://github.com/szpricky/guestbook-api)
