@@ -87,7 +87,7 @@ I spend most of my time solving complex problems through code. I enjoy collabora
 
 ## 📊 My Stats
 
-[![Visitors](https://api.visitorbadge.io/api/combined?path=http%3A%2F%2Fgithub.com%2Fszpatrichardi&label=Visitors&labelColor=%23010c2b&countColor=%2304123b&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=http%3A%2F%2Fgithub.com%2Fszpatrichard)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fszpatrichard&labelColor=%23010c2b&countColor=%2304123b)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fszpatrichard)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=szpatrichard&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
