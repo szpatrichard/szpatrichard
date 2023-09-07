@@ -24,6 +24,18 @@ I spend most of my time solving complex problems through code. I enjoy collabora
 - 🇭🇺 From Budapest, Hungary.
 - 🇮🇪 Living in Ireland.
 
+## 📊 My Stats
+
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fszpatrichard&labelColor=%23010c2b&countColor=%2304123b)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fszpatrichard)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=szpatrichard&theme=radical&date_format=j%20M%5B%20Y%5D&card_width=460)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szpatrichard&show_icons=true&theme=radical&card_width=460)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szpatrichard&layout=compact&theme=radical&card_width=460)
+
+<!-- Repos:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szpricky&repo=guestbook-api)](https://github.com/szpricky/guestbook-api)
+-->
+
 ## 🛠️ What I'm Working With
 
 ### For programming stuff
@@ -84,15 +96,3 @@ I spend most of my time solving complex problems through code. I enjoy collabora
 
 ![Windows](https://img.shields.io/badge/Windows-04123B?style=for-the-badge&logo=windows&logoColor=0078D6)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-04123B?style=for-the-badge&logo=ubuntu&logoColor=E95420)
-
-## 📊 My Stats
-
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fszpatrichard&labelColor=%23010c2b&countColor=%2304123b)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fszpatrichard)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=szpatrichard&theme=radical&date_format=j%20M%5B%20Y%5D&card_width=460)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szpatrichard&show_icons=true&theme=radical&card_width=460)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szpatrichard&layout=compact&theme=radical&card_width=460)
-
-<!-- Repos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szpricky&repo=guestbook-api)](https://github.com/szpricky/guestbook-api)
--->
