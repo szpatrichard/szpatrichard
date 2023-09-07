@@ -96,7 +96,3 @@ I spend most of my time solving complex problems through code. I enjoy collabora
 <!-- Repos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szpricky&repo=guestbook-api)](https://github.com/szpricky/guestbook-api)
 -->
-
-## 🤡 Random Joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
