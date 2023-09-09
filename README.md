@@ -4,16 +4,15 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+engineer.;Web+developer.;Data+scientist.)
 
-I spend most of my time solving complex problems through code. I enjoy collaborating with others to build innovative solutions and improve existing ones. Feel free to explore my [projects and repositories](https://github.com/szpatrichard?tab=repositories), and don't hesitate to get in touch if you have any questions or would like to work together on a project.
+I spend most of my time-solving complex problems through code. I enjoy collaborating with others to build innovative solutions and improve existing ones. Feel free to explore my [projects and repositories](https://github.com/szpatrichard?tab=repositories), and don't hesitate to get in touch if you have any questions or would like to work together on a project.
 
 ### 📫 Reach out to me!
 
-[![Website](https://img.shields.io/badge/richardsz.dev-04123B?style=flat-square)](http://richardsz.dev)
+[![Website](https://img.shields.io/badge/p.richardsz.dev-04123B?style=flat-square)](http://p.richardsz.dev)
 [![Email](https://img.shields.io/badge/szpatrichard@proton.me-04123B?style=flat-square&logoColor=58588C)](mailto:szpatrichard@proton.me?subject=%20New%20message%20sent%20on%20Github)
 
-[![LinkedIn](https://img.shields.io/badge/szpatrichard-04123B?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/szpatrichard)
-[![Twitter](https://img.shields.io/badge/szpatrichard-04123B?style=flat-square&logo=twitter&logoColor=2CA5E0)](https://twitter.com/szpatrichard)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-04123B?style=flat-square&logo=whatsapp&logoColor=25D366)](https://wa.link/v9tf0l)
+[![LinkedIn](https://img.shields.io/badge/prichardsz-04123B?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/prichardsz)
+[![Twitter](https://img.shields.io/badge/__szilagyi-04123B?style=flat-square&logo=twitter&logoColor=2CA5E0)](https://twitter.com/__szilagyi)
 
 - 👨‍💻 Programmer and problem solver with a drive to create innovative solutions and a commitment to continuous learning.
 - 👨‍🎓 Studying software development at **Munster Technological University** gaining knowledge and practical experience in various programming languages, software design, and development methodologies.
