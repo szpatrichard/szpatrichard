@@ -17,7 +17,7 @@ I spend most of my time-solving complex problems through code. I enjoy collabora
 - 🔭 I am currently working on several **college projects** and various **personal projects** in my free time.
 - 🌱 I am currently deepening my knowledge and skills in **Java backend development** using **Spring Boot**, **MongoDB** and other **NoSQL databases**, **Python data science libraries**, and contributing to **open source projects**.
 - 🤔 I am curious about learning more about cutting-edge technologies like **artificial intelligence**, **data science** and **blockchain technologies**.
-- ⚡ Fun fact: My name is etched on a microchip and sent to Mars [onboard the Perseverance rover](https://mars.nasa.gov/participate/send-your-name/orion-first-flight/?cn=409520) as part of a mission to explore the red planet.
+- ⚡ Fun fact: My name is etched on a microchip and sent to Mars [onboard the Perseverance rover](https://mars.nasa.gov/participate/send-your-name/mars2020/certificate/736069507821) as part of a mission to explore the red planet.
 - 🇭🇺 From Budapest, Hungary.
 - 🇮🇪 Living in Ireland.
 
