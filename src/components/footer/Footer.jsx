@@ -40,7 +40,7 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://linkedin.com/in/szpatrichard" target="_blank">
+        <a href="https://linkedin.com/in/patrikrichard" target="_blank">
           <FontAwesomeIcon icon={LinkedinIcon} />
         </a>
         <a href="https://github.com/szpatrichard" target="_blank">

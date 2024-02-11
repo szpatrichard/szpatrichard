@@ -9,7 +9,7 @@ I spend most of my time-solving complex problems through code. I enjoy collabora
 [![Website](https://img.shields.io/badge/szpatrichard.vercel.app-04123B?style=flat-square)](https://szpatrichard.vercel.app)
 [![Email](https://img.shields.io/badge/szpatrichard@proton.me-04123B?style=flat-square&logoColor=58588C)](mailto:szpatrichard@proton.me?subject=%20New%20message%20sent%20on%20Github)
 
-[![LinkedIn](https://img.shields.io/badge/patrikrichard-04123B?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/szpatrichard)
+[![LinkedIn](https://img.shields.io/badge/patrikrichard-04123B?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/patrikrichard)
 [![Twitter](https://img.shields.io/badge/prszilagyi-04123B?style=flat-square&logo=twitter&logoColor=2CA5E0)](https://twitter.com/prszilagyi)
 
 - 👨‍💻 Programmer and problem solver with a drive to create innovative solutions and a commitment to continuous learning.
