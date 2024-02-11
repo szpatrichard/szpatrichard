@@ -1,10 +1,10 @@
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="36">
 
-## I am Richard Szilagyi
+### I am Richard Szilagyi
 
 I spend most of my time-solving complex problems through code. I enjoy collaborating with others to build innovative solutions and improve existing ones. Feel free to explore my [projects and repositories](https://github.com/szpatrichard?tab=repositories), and don't hesitate to get in touch if you have any questions or would like to work together on a project.
 
-### 📫 Reach out to me
+## 📫 Reach out to me
 
 [![Website](https://img.shields.io/badge/szpatrichard.vercel.app-04123B?style=flat-square)](https://szpatrichard.vercel.app)
 [![Email](https://img.shields.io/badge/szpatrichard@proton.me-04123B?style=flat-square&logoColor=58588C)](mailto:szpatrichard@proton.me?subject=%20New%20message%20sent%20on%20Github)
